@@ -48,10 +48,6 @@ cinst java.jdk
 cinst githubforwindows
 cinst sourcetree
 
-cinst python3
-cinst nodejs.install
-cinst ruby
-
 cinst git.commandline
 cinst poshgit
 cinst git-credential-winstore
@@ -61,8 +57,6 @@ cinst git-credential-winstore
 
 cinst vlc
 cinst mpc-hc
-cinst spotify
-cinst youtube-dl
 cinst flashplayerplugin
 cinst adobeair
 
@@ -79,7 +73,6 @@ cinst lastpass
 cinst vim
 cinst gnuwin
 cinst console2
-cinst dropbox
 
 cinst 7zip
 cinst 7zip.commandline
@@ -89,7 +82,6 @@ cinst foxitreader
 cinst markpad
 cinst sublimetext3
 
-cinst totalcommander
 cinst rdcman
 
 cinst imgburn
